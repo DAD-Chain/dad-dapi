@@ -4,8 +4,6 @@
 
 API for dApps on DAD blockchain. This is an implementation of dAPI from [OEP-6](https://github.com/backslash47/OEPs/blob/oep-dapp-api/OEP-6/OEP-6.mediawiki) communication protocol.
 
-It is necessary to have installed suitable **dAPI provider** . Reference implementation is [Cyano Wallet](https://github.com/DAD-Chain/dad-wallet).
-
 The library is written in TypeScript, so all the methods and objects are typed. It is therefore usable in TypeScript projects as well as vanilla JavaScript projects.
 
 ## How to use 
