@@ -1,5 +1,3 @@
-<h1 align="center"> DAD dApi </h1>
-
 # dad-dapi
 
 API for dApps on DAD blockchain. This is an implementation of dAPI from [OEP-6](https://github.com/backslash47/OEPs/blob/oep-dapp-api/OEP-6/OEP-6.mediawiki) communication protocol.
