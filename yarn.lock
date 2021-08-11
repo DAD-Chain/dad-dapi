@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@DAD-Chain/window-post-message-proxy@^0.2.14":
+  version "0.2.14"
+  resolved "https://registry.yarnpkg.com/@DAD-Chain/window-post-message-proxy/-/window-post-message-proxy-0.2.14.tgz#e3b1fe1b1558d7aedbbc1d0053e35f21cd9dc05e"
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.0.0-beta.35":
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.0.0.tgz#06e2ab19bdb535385559aabb5ba59729482800f8"
@@ -15,10 +19,6 @@
     chalk "^2.0.0"
     esutils "^2.0.2"
     js-tokens "^4.0.0"
-
-"@DAD-Chain/window-post-message-proxy@^0.2.14":
-  version "0.2.14"
-  resolved "https://registry.yarnpkg.com/@DAD-Chain/window-post-message-proxy/-/window-post-message-proxy-0.2.14.tgz#e3b1fe1b1558d7aedbbc1d0053e35f21cd9dc05e"
 
 "@types/base-x@^1":
   version "1.0.30"
@@ -3914,8 +3914,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   resolved "https://registry.yarnpkg.com/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
 
 path-parse@^1.0.5, path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^1.0.0:
   version "1.1.0"
