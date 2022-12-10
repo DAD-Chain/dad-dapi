@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@DAD-Chain/window-post-message-proxy@^0.2.14":
+  version "0.2.14"
+  resolved "https://registry.yarnpkg.com/@DAD-Chain/window-post-message-proxy/-/window-post-message-proxy-0.2.14.tgz#e3b1fe1b1558d7aedbbc1d0053e35f21cd9dc05e"
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.0.0-beta.35":
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.0.0.tgz#06e2ab19bdb535385559aabb5ba59729482800f8"
@@ -15,10 +19,6 @@
     chalk "^2.0.0"
     esutils "^2.0.2"
     js-tokens "^4.0.0"
-
-"@DAD-Chain/window-post-message-proxy@^0.2.14":
-  version "0.2.14"
-  resolved "https://registry.yarnpkg.com/@DAD-Chain/window-post-message-proxy/-/window-post-message-proxy-0.2.14.tgz#e3b1fe1b1558d7aedbbc1d0053e35f21cd9dc05e"
 
 "@types/base-x@^1":
   version "1.0.30"
@@ -4088,8 +4088,9 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
